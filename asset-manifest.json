@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Router-Deploy/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/Router-Deploy/static/js/main.eff197c9.chunk.js",
+    "main.js.map": "/Router-Deploy/static/js/main.eff197c9.chunk.js.map",
+    "runtime-main.js": "/Router-Deploy/static/js/runtime-main.bb4d36cf.js",
+    "runtime-main.js.map": "/Router-Deploy/static/js/runtime-main.bb4d36cf.js.map",
+    "static/js/2.6fcf531d.chunk.js": "/Router-Deploy/static/js/2.6fcf531d.chunk.js",
+    "static/js/2.6fcf531d.chunk.js.map": "/Router-Deploy/static/js/2.6fcf531d.chunk.js.map",
+    "static/js/3.d4fd175b.chunk.js": "/Router-Deploy/static/js/3.d4fd175b.chunk.js",
+    "static/js/3.d4fd175b.chunk.js.map": "/Router-Deploy/static/js/3.d4fd175b.chunk.js.map",
+    "index.html": "/Router-Deploy/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/Router-Deploy/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.6fcf531d.chunk.js.LICENSE.txt": "/Router-Deploy/static/js/2.6fcf531d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb4d36cf.js",
+    "static/js/2.6fcf531d.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.eff197c9.chunk.js"
+  ]
+}
